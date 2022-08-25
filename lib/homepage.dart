@@ -21,7 +21,7 @@ class _MyHomePageState extends State<MyHomePage> {
   Widget build(BuildContext context) {
     return const SafeArea(
       child: WebView(
-        initialUrl: 'https://sistemassga.com.br',//pagina inicial que sera aberta no webview
+        initialUrl: 'https://plusmktdigital.com/gestao-de-redes-sociais/',//pagina inicial que sera aberta no webview
         javascriptMode: JavascriptMode.unrestricted,
 
       ),
